@@ -17,7 +17,7 @@ const Navbar = () => {
                 </ul>
                 <div className='flex items-center text-lg gap-4'>
                     <button className='bg-red-600 px-4 py-2 rounded-lg text-white hover transition-all duration-300'>Registratsiya</button>
-                    <button className='bg-blue-600 px-4 py-2 rounded-lg text-white hover transition-all duration-300'>Kirish</button>
+                    <button className='bg-blue-600 px-4 py-2 rounded-lg text-white hover transition-all duration-300'>Akkaunt</button>
                     <button className='text-3xl flex lg:hidden'><GiHamburgerMenu /></button>
                 </div>
             </div>
