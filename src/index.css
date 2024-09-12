@@ -15,3 +15,11 @@
 .hover:active{
   transform: scale(0.9);
 }
+
+.hover-contact:hover{
+  transform: scale(1.01);
+}
+
+.hover-contact:active{
+  transform: scale(0.95);
+}
