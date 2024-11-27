@@ -17,7 +17,7 @@ const MainScreen = () => {
                 </div>
             </div>
             <div>
-                <img className='h-[500px]' src={human} alt="" />
+                <img className='h-[500px] md:flex hidden' src={human} alt="" />
             </div>
         </div>
     </>
